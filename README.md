@@ -36,9 +36,9 @@
 <a href="https://www.linkedin.com/in/vedant-pandey-a9b42822b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vedant-pandey-a9b42822b/" height="30" width="40" /></a>
 <a href="https://leetcode.com/user0352V/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant22p" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vpandey22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vpandey22" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vedant_pandey221?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedant22_p" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vpandey2202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vpandey2202" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vedantpan94og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vedantpan94og" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vedant_pandey221?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedant22_p" height="30" width="40" /></a>
 </p>
 
 
