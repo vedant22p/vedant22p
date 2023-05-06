@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **pandey.vedant2002@gmail.com**
 
-- **DSA,AI,ML** https://rb.gy/ovm2u
-
 
 <h3 align="left">Achievements:</h3>
 
