@@ -55,7 +55,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://sakalyamitra.me/">
+  <a href="https://vedantpandey.me/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vedant22p&show_icons=true&theme=gruvbox&hide_border=true&&include_all_commits=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant22p&theme=gruvbox&hide_border=true" />
   </a>
