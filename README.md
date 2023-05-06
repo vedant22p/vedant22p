@@ -8,11 +8,13 @@
 <p><img align="right" src="https://github.com/Sakalya100/mlh-init/blob/master/animation_500_kxa883sd.gif" alt="Sakalya100" /></p>
 
 
+- 🌱 Exploring the intricacies of **DSA in C++** 
+
 - 🌱 I’m currently learning **Machine Learning and exploring the mathematical concepts in depth**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedant22p](https://github.com/vedant22p)
 
-- 💬 Ask me about **AI,ML,DSA**
+- 💬 Ask me about **DSA,AI,ML**
 
 - 📫 How to reach me **pandey.vedant2002@gmail.com**
 
@@ -20,6 +22,8 @@
 <h3 align="left">Achievements:</h3>
 
 - Competitve Programmer(2🌟 CodeChef, 2🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
+
+- Google Codejam Global Rank 972
 
 - Google Kickstart Round H Global Rank 1420
 
