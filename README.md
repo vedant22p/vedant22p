@@ -62,7 +62,7 @@
 </p>
 <br>
 
-[![Vedant's Activity Graph](https://activity-graph.herokuapp.com/graph?username=vedant22p&custom_title=Vedant's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://sakalyamitra.me/)
+[![Vedant's Activity Graph](https://activity-graph.herokuapp.com/graph?username=vedant22p&custom_title=Vedant's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://vedantpandey.me/)
 
 ------
 
