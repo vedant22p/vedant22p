@@ -18,16 +18,16 @@
 
 - 📫 How to reach me **pandey.vedant2002@gmail.com**
 
-- **Resume: ** https://rb.gy/ovm2u
+- **DSA,AI,ML** https://rb.gy/ovm2u
 
 
 <h3 align="left">Achievements:</h3>
 
 - Competitve Programmer(2🌟 CodeChef, 2🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
 
-- Google Codejam Global Rank 972
+- Google Codejam Global Rank 972 (2023)
 
-- Google Kickstart Round H Global Rank 1420
+- Google Kickstart Round H Global Rank 1472 (2022)
 
 - Exploring DSA
 
