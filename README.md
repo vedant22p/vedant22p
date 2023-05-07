@@ -27,8 +27,6 @@
 
 - Google Kickstart Round H Global Rank 1472 (2022)
 
-- Exploring DSA
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
