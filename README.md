@@ -21,7 +21,7 @@
 
 <h3 align="left">Achievements:</h3>
 
-- Competitve Programmer(2🌟 CodeChef, 2🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
+- Competitve Programmer(2🌟 CodeChef, 3🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
 
 - Google Codejam Global Rank 972 (2023)
 
