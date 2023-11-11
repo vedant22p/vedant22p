@@ -14,6 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedant22p](https://github.com/vedant22p)
 
+- 📖 My Resume - https://tinyurl.com/ydpeha3e
+
 - 💬 Ask me about **DSA,AI,ML**
 
 - 📫 How to reach me **pandey.vedant2002@gmail.com**
