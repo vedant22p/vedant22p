@@ -14,6 +14,8 @@
 
 - 📖 My Resume - https://drive.google.com/file/d/1QeneI2-Jraf2HGGcQXMdeFTvCvpJHz1C/view?usp=sharing
 
+- 👨‍💻 Portfolio Website - http://vedant2002.vercel.app/
+
 - 💬 Ask me about **DSA,AI,ML,DL,NLP,Gen AI**
 
 - 📫 How to reach me **pandey.vedant2002@gmail.com**
@@ -27,7 +29,7 @@
 
 - Google Kickstart Round H Global Rank 1472 (2022)
 
-- 12 Researach papers (9 published and 3 in the publishing pipeline)
+- 12 Research papers (9 published and 3 in the publishing pipeline)
 
 
 <h3 align="left">Connect with me:</h3>
