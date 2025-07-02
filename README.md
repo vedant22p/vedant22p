@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Pandey</h1>
-<h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
+<h3 align="center">Studied at VIT Bhopal University🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant22p&label=Profile%20views&color=0e75b6&style=flat" alt="vedant22p" /> </p>
 
