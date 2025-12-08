@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedant22p](https://github.com/vedant22p)
 
-- 📖 My Resume - https://drive.google.com/file/d/14BECdtEDbQ8wea-B5yM0b7szjTaULZPv/view?usp=drive_link
+- 📖 My Resume - https://drive.google.com/file/d/1wCElegBJ6z6cOmHoy85HJlzhUvg17ynA/view?usp=sharing
 
 - 👨‍💻 Portfolio Website - http://vedant2002.vercel.app/
 
