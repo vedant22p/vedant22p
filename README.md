@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Pandey</h1>
-<h3 align="center">Studied at VIT Bhopal University🌟</h3>
+<h3 align="center">AI Researcher @TheAgentic🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant22p&label=Profile%20views&color=0e75b6&style=flat" alt="vedant22p" /> </p>
 
@@ -8,7 +8,6 @@
 <p><img align="right" src="https://github.com/Sakalya100/mlh-init/blob/master/animation_500_kxa883sd.gif" alt="Sakalya100" /></p>
 
 
-- **AI Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedant22p](https://github.com/vedant22p)
 
